@@ -1,0 +1,14 @@
+{
+  "name": "fiona",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "fiona",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.9"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  }
+}
